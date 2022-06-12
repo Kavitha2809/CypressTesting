@@ -1,0 +1,15 @@
+{
+  "name": "cypress-practice-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.1.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}
